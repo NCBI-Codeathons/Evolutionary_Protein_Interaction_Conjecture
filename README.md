@@ -1,1 +1,7 @@
-# RAPID-EVALUATION-OF-STATISTICAL-STRATEGIES-FOR-PREDICTING-INTERACTIONS-AND-INFORMATION-TRANSFER-BETW
+# RAPID EVALUATION OF STATISTICAL STRATEGIES FOR PREDICTING INTERACTIONS AND INFORMATION TRANSFER BETWEEN PROTEINS
+
+Protein-protein binding interactions, inter-protein allosteric regulation, and protein complex formation provide a foundation for communication in the cell. An ability to predict and understanding protein interactions at residue-level resolution is necessary to design precise mutagenesis experiments, engineer protein complex specificity, and introduce new regulation. A substantial body of work now suggests that protein sequence co-evolution has major potential for predicting protein interactions. 
+ 
+ We hypothesize the present approaches are limited by substantial levels of phylogenetic noise and an emphasis on local residue contacts rather than distributed residue networks. We seek to extend our analysis to a larger test set of complexes and more fully explore alternative models for phylogenetic correction. The hackathon would provide an excellent opportunity to rapidly organize, statistically describe, and filter our initial data set of protein interactions and to evaluate the performance of this method (as well as variations around it) on a gold-standard test set of protein interaction data. Following the hackathon, we plan to extend the most successful version of the analysis genome-wide (across E. coli) to globally infer the protein interactome.
+
+Team Lead: Kimberly Reynolds, PhD, Green Center for Systems Biology, reynolds-lab.net/
