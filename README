@@ -1,0 +1,34 @@
+This directory contains files and testset data for the October 2019
+UHACK-Med hackathon.
+
+Contents:*****************************
+
+2019_Hackathon.pdf               - An introduction to hackathon objectives, data and
+                                   methods
+Figs/                            - Directory of figures used to create 2019_Hackathon.pdf
+GettingStarted.ipynb             - Jupyter notebook, python 2.7. Demonstrates how
+                                   to do the basic coevolutionary calculations
+GettingStartedSCACalcs.npy       - pickle database of outputs from the
+                                   GettingStarted notebook
+PositionalCoevolution.ipynb      - Jupyter notebook, python
+                                   2.7. Deomonstrates how to use
+                                   mirrortree to compute coevolution
+                                   between position pairs
+SCA_folAthyA.npy                 - pickle database of outputs from
+                                   PositionalCoevolution.ipynb
+SCA_nrdAB.npy                    - pickle database of outputs from
+                                   PositionalCoevolution.ipynb
+TestSet/                         - The test set data
+coevo2.py                        - The python module (toolbox) with
+                                   containing the co-evolutionary
+                                   functions/analysis
+folProtSet.npy                   - pickle database of outputs from
+                                   PositionalCoevolution.ipynb
+nrdProtSet.npy                   - pickle database of outputs from
+                                   PositionalCoevolution.ipynb
+scaTools.py                      - python module containing the
+                                   functions for SCA. The most
+                                   relevant ones are already contained
+                                   in coevo2.py, but we may choose to
+                                   adapt/include some additional functions
+                                   from this module.
